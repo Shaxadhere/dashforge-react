@@ -71,12 +71,10 @@ class Header extends React.Component{
                     </ul>
                   </div>
                   <div class="navbar-right">
-                    <a href="http://dribbble.com/themepixels" class="btn btn-social"><i class="fab fa-dribbble"></i></a>
-                    <a href="https://github.com/themepixels" class="btn btn-social"><i class="fab fa-github"></i></a>
-                    <a href="https://twitter.com/themepixels" class="btn btn-social"><i class="fab fa-twitter"></i></a>
-                    <a href="https://themeforest.net/item/dashforge-responsive-admin-dashboard-template/23725961" class="btn btn-buy"><i data-feather="shopping-bag"></i> <span>Buy Now</span></a>
+                    <a href="login" class="btn btn-buy"><i data-feather="shopping-bag"></i> <span>Login</span></a>
                   </div>
                 </header>
+                
 
             </div>
         )

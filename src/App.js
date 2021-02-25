@@ -12,6 +12,7 @@ function App() {
       <Header/>
       <Sidebar/>
       <Home/>
+      <Footer/>
     </div>
   );
 }
