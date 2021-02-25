@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import {Link} from 'react-router';
 
 class Sidebar extends React.Component{
     render(){
@@ -13,7 +12,7 @@ class Sidebar extends React.Component{
       </div>
       <div class="sidebar-body">
         <ul class="sidebar-nav">
-          <li class="nav-label mg-b-15">Welcome To StickersBomb</li>
+          <li class="nav-label mg-b-15">Welcome to Stickers Bomb</li>
           <li class="nav-item"><a href="index.html" class="nav-link active"><i data-feather="layout"></i> Dashboard</a></li>
           <li class="nav-item"><a href="grid.html" class="nav-link"><i data-feather="grid"></i> Sales</a></li>
           <li class="nav-item"><a href="grid.html" class="nav-link"><i data-feather="grid"></i> Investments</a></li>
